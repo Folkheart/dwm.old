@@ -32,7 +32,7 @@ static const Rule rules[] = {
 	{ "Firefox",  NULL,       NULL,       1 << 8,       0,           -1 },
 	{ "Surf",     NULL,       NULL,       1 << 7,       0,           -1 },
 	{ "Emacs",    NULL,       NULL,       0,            0,           -1 },
-	{ "Roxterm",  NULL,       NULL,       0,            0,           -1 },
+	{ "St",       NULL,       NULL,       0,            0,           -1 },
 };
 
 /* layout(s) */
